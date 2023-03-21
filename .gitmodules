@@ -1,0 +1,3 @@
+[submodule "CMake/vendor/github/glfw"]
+	path = CMake/vendor/github/glfw
+	url = https://github.com/glfw/glfw.git
